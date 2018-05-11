@@ -14,6 +14,7 @@
 		F15E787220A59DCD00B42672 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F15E787020A59DCD00B42672 /* LaunchScreen.storyboard */; };
 		F15E787D20A59DCD00B42672 /* Protocol_DelegetTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F15E787C20A59DCD00B42672 /* Protocol_DelegetTests.swift */; };
 		F15E788820A59DCD00B42672 /* Protocol_DelegetUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F15E788720A59DCD00B42672 /* Protocol_DelegetUITests.swift */; };
+		F15E789620A5A1F000B42672 /* SeconVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = F15E789520A5A1F000B42672 /* SeconVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		F15E788320A59DCD00B42672 /* Protocol&DelegetUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Protocol&DelegetUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F15E788720A59DCD00B42672 /* Protocol_DelegetUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Protocol_DelegetUITests.swift; sourceTree = "<group>"; };
 		F15E788920A59DCD00B42672 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F15E789520A5A1F000B42672 /* SeconVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SeconVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				F15E786720A59DCD00B42672 /* AppDelegate.swift */,
 				F15E786920A59DCD00B42672 /* ViewController.swift */,
+				F15E789520A5A1F000B42672 /* SeconVC.swift */,
 				F15E786B20A59DCD00B42672 /* Main.storyboard */,
 				F15E786E20A59DCD00B42672 /* Assets.xcassets */,
 				F15E787020A59DCD00B42672 /* LaunchScreen.storyboard */,
@@ -260,6 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F15E786A20A59DCD00B42672 /* ViewController.swift in Sources */,
+				F15E789620A5A1F000B42672 /* SeconVC.swift in Sources */,
 				F15E786820A59DCD00B42672 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
